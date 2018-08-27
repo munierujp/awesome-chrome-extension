@@ -1,5 +1,5 @@
 # awesome-chrome-extension
-My favorite chrome extension list
+My favorite Chrome extension list
 
 |name|
 |---|
