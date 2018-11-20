@@ -2,6 +2,7 @@
 My favorite Chrome extension list
 
 * [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom)
+* [Advanced Font Settings](https://chrome.google.com/webstore/detail/advanced-font-settings/caclkomlalccbpcdllchkeecicepbmbm)
 * [Allow-Control-Allow-Origin: *](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
 * [BetterTweetDeck](https://chrome.google.com/webstore/detail/bettertweetdeck/micblkellenpbfapmcpcfhcoeohhnpob)
 * [Do Not Merge WIP for GitHub](https://chrome.google.com/webstore/detail/nimelepbpejjlbmoobocpfnjhihnpked)
