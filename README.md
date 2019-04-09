@@ -3,6 +3,7 @@
 * [Advanced Font Settings](https://chrome.google.com/webstore/detail/advanced-font-settings/caclkomlalccbpcdllchkeecicepbmbm)
 * [Allow-Control-Allow-Origin: *](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
 * [BetterTweetDeck](https://chrome.google.com/webstore/detail/bettertweetdeck/micblkellenpbfapmcpcfhcoeohhnpob)
+* [ChromeReloadPlus](https://chrome.google.com/webstore/detail/chromereloadplus/nbbpjdmdkcmpimmhloehkojhbhjlboog)
 * [Do Not Merge WIP for GitHub](https://chrome.google.com/webstore/detail/nimelepbpejjlbmoobocpfnjhihnpked)
 * [Douga Getter](https://chrome.google.com/webstore/detail/douga-getter/hhbcihapcmaemjinlbgafnjjihbdmjnf)
 * [Enable right click](https://chrome.google.com/webstore/detail/enable-right-click/hhojmcideegachlhfgfdhailpfhgknjm/)
