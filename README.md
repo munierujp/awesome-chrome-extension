@@ -8,6 +8,7 @@
 * [Douga Getter](https://chrome.google.com/webstore/detail/douga-getter/hhbcihapcmaemjinlbgafnjjihbdmjnf)
 * [Enable right click](https://chrome.google.com/webstore/detail/enable-right-click/hhojmcideegachlhfgfdhailpfhgknjm/)
 * [File Icon for GitHub, GitLab and Bitbucket](https://chrome.google.com/webstore/detail/file-icon-for-github-gitl/ficfmibkjjnpogdcfhfokmihanoldbfe)
+* [GitHub Pages View Source](https://chrome.google.com/webstore/detail/github-pages-view-source/eboipoomjlbpkfmmiicfgmclghepgbbk/)
 * [Go Back With Backspace](https://chrome.google.com/webstore/detail/go-back-with-backspace/eekailopagacbcdloonjhbiecobagjci)
 * [Google Apps Script GitHub Assistant](https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo)
 * [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
