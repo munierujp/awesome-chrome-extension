@@ -25,6 +25,7 @@
 * [Restlet Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 * [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 * [Session Buddy](https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko)
+* [Slack Printer](https://chrome.google.com/webstore/detail/slack-printer/pmoidapkjjlhcdbdjojaekbdlkdjjoab)
 * [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne)
 * [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 * [uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe/)
