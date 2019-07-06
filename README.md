@@ -24,6 +24,7 @@
 * [Just Read](https://chrome.google.com/webstore/detail/dgmanlpmmkibanfdgjocnabmcaclkmod)
 * [Keepa](https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo)
 * [LTTM](https://chrome.google.com/webstore/detail/jdidcgkdggndpodjbipodfefnpgjooeh)
+* [Mouse Dictionary](https://chrome.google.com/webstore/detail/dnclbikcihnpjohihfcmmldgkjnebgnj)
 * [Q Accelerator](https://chrome.google.com/webstore/detail/mheleidccioamimekojienbdfclcbaan)
 * [Refined - a tool for Slack](https://chrome.google.com/webstore/detail/mgicdolhkaeefgmbhlohfjoafacijbfh)
 * [Restlet Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
