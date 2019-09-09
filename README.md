@@ -24,6 +24,7 @@
 * [JSON Formatter](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
 * [Just Read](https://chrome.google.com/webstore/detail/dgmanlpmmkibanfdgjocnabmcaclkmod)
 * [Keepa](https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo)
+* [LinkMemo](https://chrome.google.com/webstore/detail/ldjlfegijibnmliabfelcjpkbklicbhi)
 * [LTTM](https://chrome.google.com/webstore/detail/jdidcgkdggndpodjbipodfefnpgjooeh)
 * [Mouse Dictionary](https://chrome.google.com/webstore/detail/dnclbikcihnpjohihfcmmldgkjnebgnj)
 * [Q Accelerator](https://chrome.google.com/webstore/detail/mheleidccioamimekojienbdfclcbaan)
