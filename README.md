@@ -2,6 +2,7 @@
 * [_bem_tv ext](https://chrome.google.com/webstore/detail/jgbkfdjdcbohgenpccfgldadaofnfknl/)
 * [AdBlock](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
 * [Advanced Font Settings](https://chrome.google.com/webstore/detail/caclkomlalccbpcdllchkeecicepbmbm)
+* [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf)
 * [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/pbjikboenpfhbbejgkoklgkhjpfogcam/)
 * [Auto Refresh](https://chrome.google.com/webstore/detail/ifooldnmmcmlbdennkpdnlnbgbmfalko)
 * [BetterTweetDeck](https://chrome.google.com/webstore/detail/micblkellenpbfapmcpcfhcoeohhnpob)
