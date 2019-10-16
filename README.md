@@ -33,6 +33,7 @@
 * [Refined - a tool for Slack](https://chrome.google.com/webstore/detail/mgicdolhkaeefgmbhlohfjoafacijbfh)
 * [Restlet Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 * [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
+* [Save image as Type](https://chrome.google.com/webstore/detail/gabfmnliflodkdafenbcpjdlppllnemd/)
 * [Session Buddy](https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko)
 * [Slack Printer](https://chrome.google.com/webstore/detail/slack-printer/pmoidapkjjlhcdbdjojaekbdlkdjjoab)
 * [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne)
