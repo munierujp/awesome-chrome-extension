@@ -16,6 +16,7 @@
 * [Goodbye geocities.jp](https://chrome.google.com/webstore/detail/lemfgphjhikbbadomlciomdgchbmaldp)
 * [Google Apps Script GitHub Assistant](https://chrome.google.com/webstore/detail/lfjcgcmkmjjlieihflfhjopckgpelofo)
 * [Google Translate](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+* [Grammarly](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 * [Hatena Bookmark](https://chrome.google.com/webstore/detail/dnlfpnhinnjdgmjfpccajboogcjocdla)
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp)
 * [Humans.txt](https://chrome.google.com/webstore/detail/pocdghmbbodjiclginddlaimdaholhfk)
