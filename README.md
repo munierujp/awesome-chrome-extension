@@ -32,6 +32,7 @@
 * [Mouse Dictionary](https://chrome.google.com/webstore/detail/dnclbikcihnpjohihfcmmldgkjnebgnj)
 * [Q Accelerator](https://chrome.google.com/webstore/detail/mheleidccioamimekojienbdfclcbaan)
 * [Refined - a tool for Slack](https://chrome.google.com/webstore/detail/mgicdolhkaeefgmbhlohfjoafacijbfh)
+* [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
 * [Restlet Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 * [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 * [Save image as Type](https://chrome.google.com/webstore/detail/gabfmnliflodkdafenbcpjdlppllnemd/)
