@@ -41,6 +41,7 @@
 * [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne)
 * [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 * [uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe/)
+* [UML anywhere](https://chrome.google.com/webstore/detail/mcefidbiooofpmcanlmgcjiickpdehah)
 * [User-Agent Switcher](https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 * [VisBug](https://chrome.google.com/webstore/detail/cdockenadnadldjbbgcallicgledbeoc)
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd)
