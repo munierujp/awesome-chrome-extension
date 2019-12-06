@@ -32,6 +32,7 @@
 * [LTTM](https://chrome.google.com/webstore/detail/jdidcgkdggndpodjbipodfefnpgjooeh)
 * [Mouse Dictionary](https://chrome.google.com/webstore/detail/dnclbikcihnpjohihfcmmldgkjnebgnj)
 * [Q Accelerator](https://chrome.google.com/webstore/detail/mheleidccioamimekojienbdfclcbaan)
+* [Qiita:Team Plus](https://chrome.google.com/webstore/detail/hcfgcklmbbanbcgkdfohjmakcpmghnbj)
 * [Refined - a tool for Slack](https://chrome.google.com/webstore/detail/mgicdolhkaeefgmbhlohfjoafacijbfh)
 * [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
 * [Restlet Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
