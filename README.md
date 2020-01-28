@@ -4,6 +4,7 @@
 * [Advanced Font Settings](https://chrome.google.com/webstore/detail/caclkomlalccbpcdllchkeecicepbmbm)
 * [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf)
 * [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/pbjikboenpfhbbejgkoklgkhjpfogcam/)
+* [Augury](https://chrome.google.com/webstore/detail/elgalmkoelokbchhkhacckoklkejnhcd)
 * [Auto Refresh](https://chrome.google.com/webstore/detail/ifooldnmmcmlbdennkpdnlnbgbmfalko)
 * [BetterTweetDeck](https://chrome.google.com/webstore/detail/micblkellenpbfapmcpcfhcoeohhnpob)
 * [ChromeReloadPlus](https://chrome.google.com/webstore/detail/nbbpjdmdkcmpimmhloehkojhbhjlboog)
