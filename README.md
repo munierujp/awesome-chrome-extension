@@ -43,6 +43,7 @@
 * [Session Buddy](https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko)
 * [Slack Printer](https://chrome.google.com/webstore/detail/slack-printer/pmoidapkjjlhcdbdjojaekbdlkdjjoab)
 * [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne)
+* [Suspicious Site Reporter](https://chrome.google.com/webstore/detail/jknemblkbdhdcpllfgbfekkdciegfboi)
 * [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 * [uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe/)
 * [UML anywhere](https://chrome.google.com/webstore/detail/mcefidbiooofpmcanlmgcjiickpdehah)
