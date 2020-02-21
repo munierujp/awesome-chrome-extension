@@ -50,4 +50,5 @@
 * [VisBug](https://chrome.google.com/webstore/detail/cdockenadnadldjbbgcallicgledbeoc)
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd)
 * [Wappalyzer](https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg)
+* [はてなフィルタ](https://chrome.google.com/webstore/detail/nogcpadcgpkonifnaagfghkaiiojdcap)
 * [ブクログ](https://chrome.google.com/webstore/detail/iafmiijigjljooijdlehfidpoajlcpjd)
