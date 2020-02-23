@@ -21,7 +21,6 @@
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp)
 * [JavaAPI-Redirector](https://chrome.google.com/webstore/detail/kildmhgekjfidnaohdmopdcoibigchkj)
 * [JSON Formatter](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
-* [Just Read](https://chrome.google.com/webstore/detail/dgmanlpmmkibanfdgjocnabmcaclkmod)
 * [Keepa](https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo)
 * [Linkclump](https://chrome.google.com/webstore/detail/lfpjkncokllnfokkgpkobnkbkmelfefj)
 * [LinkMemo](https://chrome.google.com/webstore/detail/ldjlfegijibnmliabfelcjpkbklicbhi)
