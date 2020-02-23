@@ -34,7 +34,6 @@
 * [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 * [Save image as Type](https://chrome.google.com/webstore/detail/gabfmnliflodkdafenbcpjdlppllnemd/)
 * [Session Buddy](https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko)
-* [Slack Printer](https://chrome.google.com/webstore/detail/slack-printer/pmoidapkjjlhcdbdjojaekbdlkdjjoab)
 * [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne)
 * [Suspicious Site Reporter](https://chrome.google.com/webstore/detail/jknemblkbdhdcpllfgbfekkdciegfboi)
 * [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
