@@ -19,7 +19,6 @@
 * [Grammarly](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 * [Hatena Bookmark](https://chrome.google.com/webstore/detail/dnlfpnhinnjdgmjfpccajboogcjocdla)
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp)
-* [IP Address and Domain Information](https://chrome.google.com/webstore/detail/lhgkegeccnckoiliokondpaaalbhafoa)
 * [JavaAPI-Redirector](https://chrome.google.com/webstore/detail/kildmhgekjfidnaohdmopdcoibigchkj)
 * [JavaScript Errors Notifier](https://chrome.google.com/webstore/detail/jafmfknfnkoekkdocjiaipcnmkklaajd)
 * [JSON Formatter](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
