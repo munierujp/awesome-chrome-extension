@@ -20,7 +20,6 @@
 * [Hatena Bookmark](https://chrome.google.com/webstore/detail/dnlfpnhinnjdgmjfpccajboogcjocdla)
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp)
 * [JavaAPI-Redirector](https://chrome.google.com/webstore/detail/kildmhgekjfidnaohdmopdcoibigchkj)
-* [JavaScript Errors Notifier](https://chrome.google.com/webstore/detail/jafmfknfnkoekkdocjiaipcnmkklaajd)
 * [JSON Formatter](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
 * [Just Read](https://chrome.google.com/webstore/detail/dgmanlpmmkibanfdgjocnabmcaclkmod)
 * [Keepa](https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo)
