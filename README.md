@@ -33,7 +33,7 @@
 * [LTTM](https://chrome.google.com/webstore/detail/jdidcgkdggndpodjbipodfefnpgjooeh)
 * [Mouse Dictionary](https://chrome.google.com/webstore/detail/dnclbikcihnpjohihfcmmldgkjnebgnj)
 * [Q Accelerator](https://chrome.google.com/webstore/detail/mheleidccioamimekojienbdfclcbaan)
-* [Qiita:Team Plus](https://chrome.google.com/webstore/detail/hcfgcklmbbanbcgkdfohjmakcpmghnbj)
+* [Qiita Team Plus](https://chrome.google.com/webstore/detail/hcfgcklmbbanbcgkdfohjmakcpmghnbj)
 * [Re-send Email 2](https://chrome.google.com/webstore/detail/ggldhbobacklakahmplogapncpmfekdg)
 * [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
 * [Restlet Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
