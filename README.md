@@ -37,6 +37,7 @@
 * [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne)
 * [Suspicious Site Reporter](https://chrome.google.com/webstore/detail/jknemblkbdhdcpllfgbfekkdciegfboi)
 * [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+* [Taskade](https://chrome.google.com/webstore/detail/taskade-team-tasks-notes/hcobdfnjjaceclfdjpmmpiknimccjpmf)
 * [uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe/)
 * [UML anywhere](https://chrome.google.com/webstore/detail/mcefidbiooofpmcanlmgcjiickpdehah)
 * [User-Agent Switcher](https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg)
