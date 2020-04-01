@@ -19,6 +19,7 @@
 * [Grammarly](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 * [Hatena Bookmark](https://chrome.google.com/webstore/detail/dnlfpnhinnjdgmjfpccajboogcjocdla)
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp)
+* [Image Analyzer](https://chrome.google.com/webstore/detail/bgadhpbbppdihhbfcjbbihfcckbblcek/)
 * [JavaAPI-Redirector](https://chrome.google.com/webstore/detail/kildmhgekjfidnaohdmopdcoibigchkj)
 * [JSON Formatter](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
 * [Keepa](https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo)
