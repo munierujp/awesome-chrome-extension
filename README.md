@@ -46,4 +46,3 @@
 * [VisBug](https://chrome.google.com/webstore/detail/cdockenadnadldjbbgcallicgledbeoc)
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd)
 * [Wappalyzer](https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg)
-* [ブクログ](https://chrome.google.com/webstore/detail/iafmiijigjljooijdlehfidpoajlcpjd)
