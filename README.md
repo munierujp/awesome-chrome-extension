@@ -9,6 +9,7 @@
 - [AWS Favicon Update](https://chrome.google.com/webstore/detail/ohloajnmmkniehhbmjakbejnomonmijc/)
 - [BetterTweetDeck](https://chrome.google.com/webstore/detail/micblkellenpbfapmcpcfhcoeohhnpob)
 - [Chrome extension source viewer](https://chrome.google.com/webstore/detail/jifpbeccnghkjeaalbbjmodiffmgedin)
+- [DeepL Translator](https://chrome.google.com/webstore/detail/fjokdddhdjnpombkijbljbeemdmajgfj/)
 - [Do Not Merge WIP for GitHub](https://chrome.google.com/webstore/detail/nimelepbpejjlbmoobocpfnjhihnpked)
 - [Douga Getter](https://chrome.google.com/webstore/detail/hhbcihapcmaemjinlbgafnjjihbdmjnf)
 - [Enable right click](https://chrome.google.com/webstore/detail/hhojmcideegachlhfgfdhailpfhgknjm/)
