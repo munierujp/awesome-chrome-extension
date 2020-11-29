@@ -49,4 +49,3 @@
 - [VisBug](https://chrome.google.com/webstore/detail/cdockenadnadldjbbgcallicgledbeoc)
 - [Vue.js devtools](https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg)
-- [読書アシスト](https://chrome.google.com/webstore/detail/iflbbhnldegpomaoeefendoccheejieb)
