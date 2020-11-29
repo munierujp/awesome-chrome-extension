@@ -39,6 +39,7 @@
 - [RSSHub Radar](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa/)
 - [Save image as Type](https://chrome.google.com/webstore/detail/gabfmnliflodkdafenbcpjdlppllnemd/)
 - [Session Buddy](https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko)
+- [Stream Recorder](https://chrome.google.com/webstore/detail/iogidnfllpdhagebkblkgbfijkbkjdmm)
 - [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne)
 - [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - [The Great Suspender](https://chrome.google.com/webstore/detail/klbibkeccnjlkjkiokjodocebajanakg)
