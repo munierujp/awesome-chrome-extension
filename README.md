@@ -22,7 +22,6 @@
 - [Hatena Bookmark](https://chrome.google.com/webstore/detail/dnlfpnhinnjdgmjfpccajboogcjocdla)
 - [Hatiina](https://chrome.google.com/webstore/detail/hlnbapojfhhnelglfjilcefaefjbpcng)
 - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp)
-- [Image Analyzer](https://chrome.google.com/webstore/detail/bgadhpbbppdihhbfcjbbihfcckbblcek/)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [Keepa](https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo)
 - [Linkclump](https://chrome.google.com/webstore/detail/lfpjkncokllnfokkgpkobnkbkmelfefj)
