@@ -32,7 +32,7 @@
 - [Re-send Email 2](https://chrome.google.com/webstore/detail/ggldhbobacklakahmplogapncpmfekdg)
 - [Reader Mode](https://chrome.google.com/webstore/detail/llimhhconnjiflfimocjggfjdlmlhblm)
 - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
-- [Restlet Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
+- [Talend API Tester](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 - [RSSHub Radar](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa/)
 - [Save image as Type](https://chrome.google.com/webstore/detail/gabfmnliflodkdafenbcpjdlppllnemd/)
