@@ -1,6 +1,5 @@
 # awesome-chrome-extension
 
-- [_bem_tv ext](https://chrome.google.com/webstore/detail/jgbkfdjdcbohgenpccfgldadaofnfknl/)
 - [AdBlock](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
 - [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf)
 - [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/pbjikboenpfhbbejgkoklgkhjpfogcam/)
