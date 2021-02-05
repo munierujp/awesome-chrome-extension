@@ -40,7 +40,6 @@
 - [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne)
 - [Talend API Tester](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 - [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- [The Great Suspender](https://chrome.google.com/webstore/detail/klbibkeccnjlkjkiokjodocebajanakg)
 - [uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe/)
 - [UML anywhere](https://chrome.google.com/webstore/detail/mcefidbiooofpmcanlmgcjiickpdehah)
 - [User-Agent Switcher](https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg)
