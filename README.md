@@ -30,6 +30,7 @@
 - [Q Accelerator](https://chrome.google.com/webstore/detail/mheleidccioamimekojienbdfclcbaan)
 - [Qiita Team Plus](https://chrome.google.com/webstore/detail/hcfgcklmbbanbcgkdfohjmakcpmghnbj)
 - [Rajiko](https://chrome.google.com/webstore/detail/ejcfdikabeebbgbopoagpabbdokepnff)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi/)
 - [Reader Mode](https://chrome.google.com/webstore/detail/llimhhconnjiflfimocjggfjdlmlhblm)
 - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
