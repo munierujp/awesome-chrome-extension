@@ -11,6 +11,7 @@
 - [Distill Web Monitor](https://chrome.google.com/webstore/detail/inlikjemeeknofckkjolnjbpehgadgge/)
 - [Do Not Merge WIP for GitHub](https://chrome.google.com/webstore/detail/nimelepbpejjlbmoobocpfnjhihnpked)
 - [Douga Getter](https://chrome.google.com/webstore/detail/hhbcihapcmaemjinlbgafnjjihbdmjnf)
+- [EditThisCookie](https://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg/)
 - [Enable right click](https://chrome.google.com/webstore/detail/hhojmcideegachlhfgfdhailpfhgknjm/)
 - [File Icon for GitHub, GitLab and Bitbucket](https://chrome.google.com/webstore/detail/ficfmibkjjnpogdcfhfokmihanoldbfe)
 - [GitHub Pages View Source](https://chrome.google.com/webstore/detail/eboipoomjlbpkfmmiicfgmclghepgbbk/)
