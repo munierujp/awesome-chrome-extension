@@ -7,7 +7,6 @@
 - [BetterTweetDeck](https://chrome.google.com/webstore/detail/micblkellenpbfapmcpcfhcoeohhnpob)
 - [Chrome extension source viewer](https://chrome.google.com/webstore/detail/jifpbeccnghkjeaalbbjmodiffmgedin)
 - [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
-- [DeepL Translator](https://chrome.google.com/webstore/detail/fjokdddhdjnpombkijbljbeemdmajgfj/)
 - [Distill Web Monitor](https://chrome.google.com/webstore/detail/inlikjemeeknofckkjolnjbpehgadgge/)
 - [Do Not Merge WIP for GitHub](https://chrome.google.com/webstore/detail/nimelepbpejjlbmoobocpfnjhihnpked)
 - [Douga Getter](https://chrome.google.com/webstore/detail/hhbcihapcmaemjinlbgafnjjihbdmjnf)
