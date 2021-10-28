@@ -20,7 +20,6 @@
 - [Google Translate](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 - [Grammarly](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [Hatena Bookmark](https://chrome.google.com/webstore/detail/dnlfpnhinnjdgmjfpccajboogcjocdla)
-- [Hatiina](https://chrome.google.com/webstore/detail/hlnbapojfhhnelglfjilcefaefjbpcng)
 - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [Keepa](https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo)
