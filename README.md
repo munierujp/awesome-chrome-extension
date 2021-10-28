@@ -14,7 +14,6 @@
 - [Enable right click](https://chrome.google.com/webstore/detail/hhojmcideegachlhfgfdhailpfhgknjm/)
 - [File Icon for GitHub, GitLab and Bitbucket](https://chrome.google.com/webstore/detail/ficfmibkjjnpogdcfhfokmihanoldbfe)
 - [GitHub Pages View Source](https://chrome.google.com/webstore/detail/eboipoomjlbpkfmmiicfgmclghepgbbk/)
-- [Gitpod Online IDE](https://chrome.google.com/webstore/detail/dodmmooeoklaejobgleioelladacbeki/)
 - [Go Back With Backspace](https://chrome.google.com/webstore/detail/eekailopagacbcdloonjhbiecobagjci)
 - [Goodbye geocities.jp](https://chrome.google.com/webstore/detail/lemfgphjhikbbadomlciomdgchbmaldp)
 - [Google Apps Script GitHub Assistant](https://chrome.google.com/webstore/detail/lfjcgcmkmjjlieihflfhjopckgpelofo)
