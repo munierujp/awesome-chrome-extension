@@ -18,6 +18,7 @@
 - [goodbye-rfc-2822-date-time](https://chrome.google.com/webstore/detail/ncpepaiocdmmmonbikofmggdphoheoge)
 - [Google Apps Script GitHub Assistant](https://chrome.google.com/webstore/detail/lfjcgcmkmjjlieihflfhjopckgpelofo)
 - [Google Translate](https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+- [google-search-title-qualified](https://chrome.google.com/webstore/detail/bjcnnhojddnonjmhlpdjcdcfmofliagb)
 - [Grammarly](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [Hatena Bookmark](https://chrome.google.com/webstore/detail/dnlfpnhinnjdgmjfpccajboogcjocdla)
 - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp)
