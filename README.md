@@ -8,7 +8,6 @@
 - [Chrome extension source viewer](https://chrome.google.com/webstore/detail/jifpbeccnghkjeaalbbjmodiffmgedin)
 - [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 - [Distill Web Monitor](https://chrome.google.com/webstore/detail/inlikjemeeknofckkjolnjbpehgadgge/)
-- [Do Not Merge WIP for GitHub](https://chrome.google.com/webstore/detail/nimelepbpejjlbmoobocpfnjhihnpked)
 - [Douga Getter](https://chrome.google.com/webstore/detail/hhbcihapcmaemjinlbgafnjjihbdmjnf)
 - [EditThisCookie](https://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg/)
 - [Enable right click](https://chrome.google.com/webstore/detail/hhojmcideegachlhfgfdhailpfhgknjm/)
