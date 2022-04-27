@@ -34,6 +34,7 @@
 - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 - [RSSHub Radar](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa/)
+- [Ruffle](https://chrome.google.com/webstore/detail/donbcfbmhbcapadipfkeojnmajbakjdc/)
 - [Save image as Type](https://chrome.google.com/webstore/detail/gabfmnliflodkdafenbcpjdlppllnemd/)
 - [Session Buddy](https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko)
 - [Stream Recorder](https://chrome.google.com/webstore/detail/iogidnfllpdhagebkblkgbfijkbkjdmm)
