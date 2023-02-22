@@ -31,6 +31,7 @@
 - [React Developer Tools](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi/)
 - [Reader Mode](https://chrome.google.com/webstore/detail/llimhhconnjiflfimocjggfjdlmlhblm)
 - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
+- [Return Tweet Source Label](https://chrome.google.com/webstore/detail/mhkngabolhbckfjpmjclhockpdclfppc)
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 - [RSSHub Radar](https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa/)
 - [Ruffle](https://chrome.google.com/webstore/detail/donbcfbmhbcapadipfkeojnmajbakjdc/)
