@@ -20,7 +20,6 @@
 - [google-search-title-qualified](https://chrome.google.com/webstore/detail/bjcnnhojddnonjmhlpdjcdcfmofliagb)
 - [Grammarly](https://chrome.google.com/webstore/detail/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 - [Hatena Bookmark](https://chrome.google.com/webstore/detail/dnlfpnhinnjdgmjfpccajboogcjocdla)
-- [HTTPS Everywhere](https://chrome.google.com/webstore/detail/gcbommkclmclpchllfjekcdonpmejbdp)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [Keepa](https://chrome.google.com/webstore/detail/neebplgakaahbhdphmkckjjcegoiijjo)
 - [Linkclump](https://chrome.google.com/webstore/detail/lfpjkncokllnfokkgpkobnkbkmelfefj)
