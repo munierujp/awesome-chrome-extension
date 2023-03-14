@@ -5,6 +5,7 @@
 - [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/pbjikboenpfhbbejgkoklgkhjpfogcam/)
 - [AWS Favicon Update](https://chrome.google.com/webstore/detail/ohloajnmmkniehhbmjakbejnomonmijc/)
 - [BetterTweetDeck](https://chrome.google.com/webstore/detail/micblkellenpbfapmcpcfhcoeohhnpob)
+- [ChatGPT for Google](https://chrome.google.com/webstore/detail/jgjaeacdkonaoafenlfkkkmbaopkbilf)
 - [Chrome extension source viewer](https://chrome.google.com/webstore/detail/jifpbeccnghkjeaalbbjmodiffmgedin)
 - [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 - [Distill Web Monitor](https://chrome.google.com/webstore/detail/inlikjemeeknofckkjolnjbpehgadgge/)
