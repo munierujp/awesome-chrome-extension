@@ -2,7 +2,6 @@
 
 - [AdBlock](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
 - [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf)
-- [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/pbjikboenpfhbbejgkoklgkhjpfogcam/)
 - [AWS Favicon Update](https://chrome.google.com/webstore/detail/ohloajnmmkniehhbmjakbejnomonmijc/)
 - [BetterTweetDeck](https://chrome.google.com/webstore/detail/micblkellenpbfapmcpcfhcoeohhnpob)
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/jgjaeacdkonaoafenlfkkkmbaopkbilf)
