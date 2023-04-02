@@ -10,6 +10,7 @@
 - [Douga Getter](https://chrome.google.com/webstore/detail/hhbcihapcmaemjinlbgafnjjihbdmjnf)
 - [EditThisCookie](https://chrome.google.com/webstore/detail/fngmhnnpilhplaeedifhccceomclgfbg/)
 - [Enable right click](https://chrome.google.com/webstore/detail/hhojmcideegachlhfgfdhailpfhgknjm/)
+- [Export cookie JSON file for Puppeteer](https://chrome.google.com/webstore/detail/nmckokihipjgplolmcmjakknndddifde)
 - [File Icon for GitHub, GitLab and Bitbucket](https://chrome.google.com/webstore/detail/ficfmibkjjnpogdcfhfokmihanoldbfe)
 - [Go Back With Backspace](https://chrome.google.com/webstore/detail/eekailopagacbcdloonjhbiecobagjci)
 - [Goodbye geocities.jp](https://chrome.google.com/webstore/detail/lemfgphjhikbbadomlciomdgchbmaldp)
