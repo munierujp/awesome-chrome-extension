@@ -44,6 +44,7 @@
 - [uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe/)
 - [Url Editor PRO](https://chrome.google.com/webstore/detail/maoigfcibanjdgnepaiiadjhgmejclea/)
 - [User-Agent Switcher](https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+- [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
 - [Vue.js devtools](https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd)
 - [Wappalyzer](https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg)
 - [Web Archives](https://chrome.google.com/webstore/detail/hkligngkgcpcolhcnkgccglchdafcnao)
