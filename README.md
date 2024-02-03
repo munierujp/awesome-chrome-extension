@@ -3,6 +3,7 @@
 - [AdBlock](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
 - [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf)
 - [Always Show Slack Workspace Switcher Sidebar](https://chrome.google.com/webstore/detail/diebigeemhcipelnipggjihcmgjlacge/)
+- [Auto Refresh Plus | Page Monitor](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)
 - [AWS Favicon Update](https://chrome.google.com/webstore/detail/ohloajnmmkniehhbmjakbejnomonmijc/)
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/jgjaeacdkonaoafenlfkkkmbaopkbilf)
 - [Chrome extension source viewer](https://chrome.google.com/webstore/detail/jifpbeccnghkjeaalbbjmodiffmgedin)
