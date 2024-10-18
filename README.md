@@ -30,7 +30,7 @@
 - [Return Tweet Source Label](https://chromewebstore.google.com/detail/mhkngabolhbckfjpmjclhockpdclfppc)
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 - [RSSHub Radar](https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)
-- [Ruffle](https://chrome.google.com/webstore/detail/donbcfbmhbcapadipfkeojnmajbakjdc/)
+- [Ruffle](https://chromewebstore.google.com/detail/ruffle-flash-emulator/donbcfbmhbcapadipfkeojnmajbakjdc)
 - [Save image as Type](https://chrome.google.com/webstore/detail/gabfmnliflodkdafenbcpjdlppllnemd/)
 - [Session Buddy](https://chrome.google.com/webstore/detail/edacconmaakjimmfgnblocblbcdcpbko)
 - [Stream Recorder](https://chrome.google.com/webstore/detail/iogidnfllpdhagebkblkgbfijkbkjdmm)
