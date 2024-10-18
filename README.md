@@ -3,7 +3,6 @@
 - [AdBlock](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
 - [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf)
 - [Auto Refresh Plus | Page Monitor](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)
-- [AWS Favicon Update](https://chrome.google.com/webstore/detail/ohloajnmmkniehhbmjakbejnomonmijc/)
 - [Chrome extension source viewer](https://chrome.google.com/webstore/detail/jifpbeccnghkjeaalbbjmodiffmgedin)
 - [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 - [Distill Web Monitor](https://chrome.google.com/webstore/detail/inlikjemeeknofckkjolnjbpehgadgge/)
