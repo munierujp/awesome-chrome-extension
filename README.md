@@ -37,7 +37,7 @@
 - [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne)
 - [Talend API Tester](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 - [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- [uBlacklist](https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe/)
+- [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=en)
 - [Url Editor PRO](https://chrome.google.com/webstore/detail/maoigfcibanjdgnepaiiadjhgmejclea/)
 - [User-Agent Switcher](https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 - [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
