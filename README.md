@@ -38,7 +38,7 @@
 - [Talend API Tester](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 - [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=en)
-- [Url Editor PRO](https://chrome.google.com/webstore/detail/maoigfcibanjdgnepaiiadjhgmejclea/)
+- [Url Editor PRO](https://chromewebstore.google.com/detail/url-editor-pro/maoigfcibanjdgnepaiiadjhgmejclea)
 - [User-Agent Switcher](https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 - [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
 - [Vue.js devtools](https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd)
