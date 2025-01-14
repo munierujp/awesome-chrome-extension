@@ -36,6 +36,7 @@
 - [Stylus](https://chrome.google.com/webstore/detail/clngdbkpkpeebahjckkjfobafhncgmne)
 - [Talend API Tester](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm)
 - [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- [TDK Meta Checker](https://chromewebstore.google.com/detail/tdk-meta-checker/kjiieeppkcjgdigogiafneikdhpagpbc)
 - [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=en)
 - [Url Editor PRO](https://chromewebstore.google.com/detail/url-editor-pro/maoigfcibanjdgnepaiiadjhgmejclea)
 - [User-Agent Switcher](https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg)
