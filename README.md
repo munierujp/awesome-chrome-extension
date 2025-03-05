@@ -25,6 +25,7 @@
 - [Qiita Team Plus](https://chrome.google.com/webstore/detail/hcfgcklmbbanbcgkdfohjmakcpmghnbj)
 - [Rajiko](https://chrome.google.com/webstore/detail/ejcfdikabeebbgbopoagpabbdokepnff)
 - [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [Reader Mode](https://chromewebstore.google.com/detail/llimhhconnjiflfimocjggfjdlmlhblm)
 - [Refined GitHub](https://chrome.google.com/webstore/detail/hlepfoohegkhhmjieoechaddaejaokhf)
 - [Return Tweet Source Label](https://chromewebstore.google.com/detail/mhkngabolhbckfjpmjclhockpdclfppc)
 - [RSS Subscription Extension](https://chrome.google.com/webstore/detail/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
