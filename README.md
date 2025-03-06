@@ -45,3 +45,4 @@
 - [Wappalyzer](https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg)
 - [Web Archives](https://chrome.google.com/webstore/detail/hkligngkgcpcolhcnkgccglchdafcnao)
 - [その本、図書館にあります。](https://chrome.google.com/webstore/detail/ldidobiipljjgfaglokcehmiljadanle)
+- [はてなブックマーク ブックマーク機能](https://chromewebstore.google.com/detail/baniobjofkeeahdkdnpanannchdgblni)
