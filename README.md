@@ -38,6 +38,7 @@
 - [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - [TDK Meta Checker](https://chromewebstore.google.com/detail/tdk-meta-checker/kjiieeppkcjgdigogiafneikdhpagpbc)
 - [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=en)
+- [URL Param Editor](https://chromewebstore.google.com/detail/url-param-editor/bapmonmhbhleaaeedhllgagomhfdiohh)
 - [User-Agent Switcher](https://chrome.google.com/webstore/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 - [Volume Master](https://chrome.google.com/webstore/detail/jghecgabfgfdldnmbfkhmffcabddioke)
 - [Vue.js devtools](https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd)
