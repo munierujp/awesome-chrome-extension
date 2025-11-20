@@ -2,6 +2,7 @@
 
 - [AdBlock](https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom)
 - [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/lhobafahddgcelffkeicbaginigeejlf)
+- [Auto hide next up card for Amazon Prime Video](https://chromewebstore.google.com/detail/pnpkddhaeadgjpmmcahamnicmplobkci)
 - [Auto Refresh Plus | Page Monitor](https://chromewebstore.google.com/detail/hgeljhfekpckiiplhkigfehkdpldcggm)
 - [Chrome extension source viewer](https://chrome.google.com/webstore/detail/jifpbeccnghkjeaalbbjmodiffmgedin)
 - [Dark Reader](https://chrome.google.com/webstore/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh)
