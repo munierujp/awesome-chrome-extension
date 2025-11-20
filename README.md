@@ -21,7 +21,6 @@
 - [Linkclump Plus](https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm)
 - [ModHeader](https://chrome.google.com/webstore/detail/idgpnmonknjnojddfkpgkljpfnnfcklj)
 - [Mouse Dictionary](https://chrome.google.com/webstore/detail/dnclbikcihnpjohihfcmmldgkjnebgnj)
-- [Q Accelerator](https://chrome.google.com/webstore/detail/mheleidccioamimekojienbdfclcbaan)
 - [Qiita Team Plus](https://chrome.google.com/webstore/detail/hcfgcklmbbanbcgkdfohjmakcpmghnbj)
 - [Rajiko](https://chrome.google.com/webstore/detail/ejcfdikabeebbgbopoagpabbdokepnff)
 - [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
